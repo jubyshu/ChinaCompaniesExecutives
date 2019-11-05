@@ -1,2 +1,3 @@
 # ChinaCompaniesExecutives
-中国A股上市公司高管名录
+
+The executives of China public listed companies.
